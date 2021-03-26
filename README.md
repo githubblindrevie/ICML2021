@@ -5,9 +5,9 @@ Although researchers have designed many methods from the algorithmic perspective
 This is the first study to provide a generalization bound for OSL, which we do by theoretically investigating the risk of the target classifier on unknown classes. According to our theory, a novel algorithm, called  auxiliary open-set risk (AOSR) is proposed to address the OSL problem. Experiments verify the efficacy of AOSR and support our theory.
 
 ## Intuitive Illustration
-![(a) Moon shape toy data for training](assest/moon_train_data.jpg)
-![(b) Moon shape toy data close-set decision region](assest/moon_closeset_pred.jpg)
-![(c) Moon shape toy data open-set decision region](assest/moon_openset_pred.jpg)
+![(a) Moon shape toy data for training](assest/moon_train_data.jpg =312x214)
+![(b) Moon shape toy data close-set decision region](assest/moon_closeset_pred.jpg =312x214)
+![(c) Moon shape toy data open-set decision region](assest/moon_openset_pred.jpg =312x214)
 
 Our solution not just learn the **decision boundary** as what closed-set learning do, but also learn the support set so that the **decision region** can be built as a closure, as shown in figure (a), (b) and (c).
 
