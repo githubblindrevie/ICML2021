@@ -5,7 +5,7 @@ Although researchers have designed many methods from the algorithmic perspective
 This is the first study to provide a generalization bound for OSL, which we do by theoretically investigating the risk of the target classifier on unknown classes. According to our theory, a novel algorithm, called  auxiliary open-set risk (AOSR) is proposed to address the OSL problem. Experiments verify the efficacy of AOSR and support our theory.
 
 ## Intuitive Illustration
-![](img src="./assest/moon_train_data.jpg width="312")
+![](img src="./assest/moon_train_data.jpg" width="312")
 ![(a) Moon shape toy data for training]<img src="assest/moon_closeset_pred.jpg width="312">
 ![(a) Moon shape toy data for training]<img src="assest/moon_openset_pred.jpg width="312">
 ![(a) Moon shape toy data for training](assest/moon_train_data.jpg =312x214)
